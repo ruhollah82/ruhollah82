@@ -1,5 +1,3 @@
-# Hi, I'm Ruhollah! 👋
-
 Welcome to my GitHub profile! I am a **Front-End Developer** with a strong focus on React, TypeScript, and MUI. I'm passionate about creating clean, efficient, and user-friendly web applications. Below you'll find a bit more about me and the technologies I work with.
 
 ## 🌱 What I'm currently working on:
