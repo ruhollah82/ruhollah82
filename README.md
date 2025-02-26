@@ -38,8 +38,8 @@
 
 ## 🏗 Featured Projects
 
-[![Project 1](https://via.placeholder.com/400x200/4a5568/ffffff?text=React+TS+Showcase)](https://github.com/ruhollah82/project1)
-[![Project 2](https://via.placeholder.com/400x200/4a5568/ffffff?text=Material+You+Implementation)](https://github.com/ruhollah82/project2)
+[![Project 1](https://via.placeholder.com/400x200/4a5568/ffffff?text=React+TS+Showcase)](https://github.com/ruhollah82/pedarkharj)
+[![Project 2](https://via.placeholder.com/400x200/4a5568/ffffff?text=Material+You+Implementation)](https://github.com/ruhollah82/OTECH-front)
 
 ## 📡 Connect with Me
 
@@ -65,6 +65,5 @@ if (sharedInterests.some(expertise => collaborationOpportunities.includes(expert
 
 ---
 
-<sub>⚡ Pro Tip: Check my [GitHub Gists](https://gist.github.com/ruhollah82) for code snippets and technical insights!</sub>  
 <sub>📫 Preferred contact method: [Email](mailto:ruhollah.naserii@gmail.com) | Telegram</sub>
 
