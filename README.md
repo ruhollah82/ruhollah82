@@ -1,15 +1,14 @@
-```markdown
-# 👋 Hello ! I'm Ruhollah
+# 👋 Hello! I'm Ruhollah
 
 **Front-End Architect** | **React Specialist** | **UI/UX Enthusiast**  
 *Crafting pixel-perfect experiences with modern web technologies*
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=material-palenight&border_radius=4.5)](https://git.io/streak-stats)
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ruhollah82&theme=material-palenight&border_radius=4.5)](https://git.io/streak-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=ruhollah82&color=blueviolet&style=flat)
 
 ```diff
-+ �𝕒�𝕖𝕝 ⚡ 𝕔𝕠𝕕𝕖
-- �𝕖�𝕦𝕟𝕕𝕒𝕟�𝕪
++ Clean & efficient code
+- Redundant complexity
 ```
 
 ## 🛠️ Technical Arsenal
@@ -40,19 +39,19 @@
   🧩 Exploring micro-frontend patterns  
   ⚡ Performance optimization techniques
 
-## 🏻 Featured Projects
+## 🏗 Featured Projects
 
 [![Project 1](https://via.placeholder.com/400x200/4a5568/ffffff?text=React+TS+Showcase)](link)
 [![Project 2](https://via.placeholder.com/400x200/4a5568/ffffff?text=Material+You+Implementation)](link)
 
-## 📡 Connect Matrix
+## 📡 Connect with Me
 
-[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="32"/>](https://linkedin.com/in/ruhollah-naseri)
-[<img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="32"/>](https://x.com/Ruhollah_82)
-[<img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" width="32"/>](https://t.me/ruhollah_82)
+[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="32"/>](https://linkedin.com/in/ruhollah-naseri)  
+[<img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="32"/>](https://x.com/Ruhollah_82)  
+[<img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" width="32"/>](https://t.me/ruhollah_82)  
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="32"/>](https://instagram.com/ruhollah_82)
 
-## 🤝 Collaboration Canvas
+## 🤝 Collaboration Opportunities
 
 ```javascript
 const collaborationOpportunities = [
@@ -73,4 +72,4 @@ if (sharedInterests.includes(yourExpertise)) {
 <sub>📫 Preferred contact method: [Email](mailto:ruhollah.naserii@gmail.com) | Telegram</sub>
 
 ![Footer](https://github.com/ruhollah82/ruhollah82/blob/output/github-contribution-grid-snake.svg)
-```
+
