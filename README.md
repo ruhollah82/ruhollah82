@@ -3,9 +3,6 @@
 **Front-End Architect** | **React Specialist** | **UI/UX Enthusiast**  
 *Crafting pixel-perfect experiences with modern web technologies*
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ruhollah82&theme=material-palenight&border_radius=4.5)](https://git.io/streak-stats)
-![Profile Views](https://komarev.com/ghpvc/?username=ruhollah82&color=blueviolet&style=flat)
-
 ```diff
 + Clean & efficient code
 - Redundant complexity
@@ -70,6 +67,4 @@ if (sharedInterests.some(expertise => collaborationOpportunities.includes(expert
 
 <sub>⚡ Pro Tip: Check my [GitHub Gists](https://gist.github.com/ruhollah82) for code snippets and technical insights!</sub>  
 <sub>📫 Preferred contact method: [Email](mailto:ruhollah.naserii@gmail.com) | Telegram</sub>
-
-![Footer](https://github.com/ruhollah82/ruhollah82/blob/output/github-contribution-grid-snake.svg)
 
