@@ -41,14 +41,14 @@
 
 ## 🏗 Featured Projects
 
-[![Project 1](https://via.placeholder.com/400x200/4a5568/ffffff?text=React+TS+Showcase)](link)
-[![Project 2](https://via.placeholder.com/400x200/4a5568/ffffff?text=Material+You+Implementation)](link)
+[![Project 1](https://via.placeholder.com/400x200/4a5568/ffffff?text=React+TS+Showcase)](https://github.com/ruhollah82/project1)
+[![Project 2](https://via.placeholder.com/400x200/4a5568/ffffff?text=Material+You+Implementation)](https://github.com/ruhollah82/project2)
 
 ## 📡 Connect with Me
 
-[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="32"/>](https://linkedin.com/in/ruhollah-naseri)  
-[<img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="32"/>](https://x.com/Ruhollah_82)  
-[<img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" width="32"/>](https://t.me/ruhollah_82)  
+[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="32"/>](https://linkedin.com/in/ruhollah-naseri)
+[<img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="32"/>](https://x.com/Ruhollah_82)
+[<img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" width="32"/>](https://t.me/ruhollah_82)
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="32"/>](https://instagram.com/ruhollah_82)
 
 ## 🤝 Collaboration Opportunities
@@ -61,7 +61,7 @@ const collaborationOpportunities = [
   'Tech community initiatives'
 ];
 
-if (sharedInterests.includes(yourExpertise)) {
+if (sharedInterests.some(expertise => collaborationOpportunities.includes(expertise))) {
   initiateConnection().then(() => scheduleBrainstormSession());
 }
 ```
