@@ -1,32 +1,76 @@
-Welcome to my GitHub profile! I am a **Front-End Developer** with a strong focus on React, TypeScript, and MUI. I'm passionate about creating clean, efficient, and user-friendly web applications. Below you'll find a bit more about me and the technologies I work with.
+```markdown
+# 👋 Hello ! I'm Ruhollah
 
-## 🌱 What I'm currently working on:
+**Front-End Architect** | **React Specialist** | **UI/UX Enthusiast**  
+*Crafting pixel-perfect experiences with modern web technologies*
 
-- Building React applications with TypeScript and MUI (Material-UI)
-- Enhancing UI/UX by integrating Material You (Material Design 3)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=material-palenight&border_radius=4.5)](https://git.io/streak-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat)
 
-## 🚀 Technologies I use:
+```diff
++ �𝕒�𝕖𝕝 ⚡ 𝕔𝕠𝕕𝕖
+- �𝕖�𝕦𝕟𝕕𝕒𝕟�𝕪
+```
 
-- **Languages:** TypeScript, JavaScript, C++
-- **Frontend:** React, MUI, CSS Modules, HTML, CSS
-- **Backend:** Go (GoLang)
-- **Version Control:** Git, GitHub
+## 🛠️ Technical Arsenal
 
-## 📚 What I'm learning:
+### **Frontend Craft**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![MUI](https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white)
+![CSS Modules](https://img.shields.io/badge/-CSS_Modules-000000?logo=css3&logoColor=white)
 
-- Improving my skills with state management in React
-- Exploring new design patterns in front-end development
+### **Backend Integration**
+![Go](https://img.shields.io/badge/-GoLang-00ADD8?logo=go&logoColor=white)
 
+### **Toolkit Essentials**
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
-## 📬 Contact me:
+## 🚧 Current Workspace
 
-Feel free to connect with me through any of the following platforms:
+- **Core Focus**:  
+  🔨 Architecting React/TS solutions with MUI v5+  
+  🎨 Implementing Material You (Design 3) patterns  
+  🧪 Optimizing component testing strategies
 
- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruhollah-naseri/)
- [![X](https://img.shields.io/badge/-X-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/Ruhollah_82)
- [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ruhollah_82)
- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ruhollah_82/)
+- **Learning Lab**:  
+  📦 Mastering state management architectures  
+  🧩 Exploring micro-frontend patterns  
+  ⚡ Performance optimization techniques
 
-## 💬 Let's collaborate!
+## 🏻 Featured Projects
 
-If you're interested in collaborating or discussing topics like front-end development, or anything else, don't hesitate to reach out!
+[![Project 1](https://via.placeholder.com/400x200/4a5568/ffffff?text=React+TS+Showcase)](link)
+[![Project 2](https://via.placeholder.com/400x200/4a5568/ffffff?text=Material+You+Implementation)](link)
+
+## 📡 Connect Matrix
+
+[<img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="32"/>](https://linkedin.com/in/ruhollah-naseri)
+[<img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="32"/>](https://x.com/Ruhollah_82)
+[<img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" width="32"/>](https://t.me/ruhollah_82)
+[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="32"/>](https://instagram.com/ruhollah_82)
+
+## 🤝 Collaboration Canvas
+
+```javascript
+const collaborationOpportunities = [
+  'Open-source contributions',
+  'UI/UX experiments',
+  'Frontend architecture challenges',
+  'Tech community initiatives'
+];
+
+if (sharedInterests.includes(yourExpertise)) {
+  initiateConnection().then(() => scheduleBrainstormSession());
+}
+```
+
+---
+
+<sub>⚡ Pro Tip: Check my [GitHub Gists](https://gist.github.com/ruhollah82) for code snippets and technical insights!</sub>  
+<sub>📫 Preferred contact method: [Email](mailto:ruhollah.naserii@gmail.com) | Telegram</sub>
+
+![Footer](https://github.com/ruhollah82/ruhollah82/blob/output/github-contribution-grid-snake.svg)
+```
