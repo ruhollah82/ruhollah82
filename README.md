@@ -38,8 +38,8 @@
 
 ## 🏗 Featured Projects
 
-[![Project 1](https://via.placeholder.com/400x200/4a5568/ffffff?text=React+TS+Showcase)](https://github.com/ruhollah82/pedarkharj)
-[![Project 2](https://via.placeholder.com/400x200/4a5568/ffffff?text=Material+You+Implementation)](https://github.com/ruhollah82/OTECH-front)
+[![Pedar Kharj](https://via.placeholder.com/400x200/4a5568/ffffff?text=React+TS+Showcase)](https://github.com/ruhollah82/pedarkharj)
+[![OTECH-MS](https://via.placeholder.com/400x200/4a5568/ffffff?text=Material+You+Implementation)](https://github.com/ruhollah82/OTECH-front)
 
 ## 📡 Connect with Me
 
