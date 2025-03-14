@@ -73,18 +73,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/ruhollah_82)
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ruhollah.naserii@gmail.com)
 
----
 
-## 🤝 **Collaboration Blueprint**
-
-```mermaid
-graph TD
-    A[Your Idea] --> B{Shared Interest?}
-    B -->|Yes| C[Brainstorm Session]
-    B -->|No| D[Casual Networking]
-    C --> E[Project Roadmap]
-    E --> F[Awesome Project!]
-```
 
 ---
 
