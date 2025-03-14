@@ -1,112 +1,99 @@
-
 <div align="center">
-  <img src="https://via.placeholder.com/150/4a5568/ffffff?text=RN" width="100" style="border-radius: 50%; margin-bottom: 20px;">
-  
-  <h1 style="font-family: 'Segoe UI', sans-serif; margin: 10px 0;">
-    <span style="color: #4a5568">👋 Hello! I'm</span> 
-    <span style="background: linear-gradient(45deg, #2b6cb0, #2b6cb0 50%, #4299e1 75%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Ruhollah</span>
-  </h1>
 
-  <div style="font-size: 1.2em; margin: 15px 0;">
-    <span style="border-bottom: 2px solid #4299e1">Front-End Architect</span> | 
-    <span style="color: #61DAFB">React Specialist</span> | 
-    <span style="color: #F6AD55">UI/UX Enthusiast</span>
-  </div>
+# 🎨 **Ruhollah's Digital Workshop**  
+`Front-End Architect` | `React Virtuoso` | `UI/UX Artisan`
 
-  <div style="max-width: 600px; margin: 0 auto; padding: 15px; background: #f7fafc; border-radius: 8px;">
-    <span style="color: #4a5568">🚀 Transforming visions into </span>
-    <span style="color: #2b6cb0; font-weight: 500">pixel-perfect experiences</span> 
-    <span style="color: #4a5568">through modern web alchemy</span>
-  </div>
-</div>
-
-<!-- Code Philosophy -->
-<div align="center" style="margin: 30px 0;">
-  <code style="background: #2d3748; color: #fff; padding: 8px 20px; border-radius: 20px; display: inline-block;">
-    <span style="color: #68d391">+ Clean & efficient code</span> 
-    <span style="margin: 0 10px">|</span> 
-    <span style="color: #fc8181">- Redundant complexity</span>
-  </code>
-</div>
-
-<!-- Technical Stack Grid -->
-## 🛠️ Technical Arsenal
-
-### **Frontend Craft**
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 15px 0;">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript">
-  <img src="https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge" alt="MUI">
-  <img src="https://img.shields.io/badge/-CSS_Modules-000000?logo=css3&logoColor=white&style=for-the-badge" alt="CSS Modules">
-</div>
-
-### **Backend Integration**
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 15px 0;">
-  <img src="https://img.shields.io/badge/-GoLang-00ADD8?logo=go&logoColor=white&style=for-the-badge" alt="Go">
-</div>
-
-### **Toolkit Essentials**
-<div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 15px 0;">
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git">
-  <img src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge" alt="Webpack">
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" alt="Figma">
-</div>
-
-<!-- Current Projects Section with Cards -->
-## 🚀 Active Endeavors
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 25px 0;">
-
-[![Pedar Kharj](https://via.placeholder.com/400x200/4a5568/ffffff?text=React+TS+Showcase)](https://github.com/ruhollah82/pedarkharj)
-*Modern expense tracking PWA with Material You theming*
-
-[![OTECH-MS](https://via.placeholder.com/400x200/4a5568/ffffff?text=Material+You+Implementation)](https://github.com/ruhollah82/OTECH-front)
-*Enterprise-grade micro-frontend architecture prototype*
+[![Material You Banner](https://your-custom-banner-link.com)](https://github.com/ruhollah82)
 
 </div>
 
-<!-- Connect Section with Animated Icons -->
-## 📡 Let's Collaborate
+---
 
-<div align="center" style="margin: 30px 0;">
-  <a href="https://linkedin.com/in/ruhollah-naseri" target="_blank" style="margin: 0 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='none'">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40">
-  </a>
-  <a href="https://x.com/Ruhollah_82" target="_blank" style="margin: 0 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='none'">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="40">
-  </a>
-  <a href="https://t.me/ruhollah_82" target="_blank" style="margin: 0 10px; transition: transform 0.3s ease;" onmouseover="this.style.transform='translateY(-3px)'" onmouseout="this.style.transform='none'">
-    <img src="https://img.icons8.com/fluent/48/000000/telegram-app.png" width="40">
-  </a>
-</div>
-
-<!-- Dynamic Code Block -->
-```javascript
-const collaborationMatrix = {
-  openSource: ['Component Libraries', 'Dev Tools'],
-  experiments: ['Design Systems', 'State Management'],
-  challenges: ['Performance Optimization', 'Cross-Platform PWAs'],
-  initiatives: ['Tech Workshops', 'Community Mentorship']
-};
-
-function initiateCollab() {
-  return (
-    <ContactForm 
-      methods={['📧 Email', '📬 Telegram', '💼 LinkedIn']}
-      responseTime="24h"
-      availability="High"
-    />
-  );
-}
+## 🌞 **Code Philosophy**
+```diff
++ Clean Code Evangelist
++ Design System Advocate
++ Technical Debt Eliminator
++ Over-Engineering Opponent
 ```
 
 ---
 
-<div align="center" style="margin-top: 40px; padding: 20px 0; border-top: 1px solid #e2e8f0;">
-  <p style="color: #718096; font-size: 0.9em;">
-    📫 Reach out via 
-    <a href="mailto:ruhollah.naserii@gmail.com" style="color: #2b6cb0; text-decoration: none;">Email</a> 
-    or 
-    <a href="https://t.me/ruhollah_82" style="color: #2b6cb0; text-decoration: none;">Telegram</a>
-  </p>
+## ⚙️ **Technical Toolkit**
+
+### **Frontend Mastery**
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square">
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square">
+  <img alt="Material UI" src="https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white&style=flat-square">
+  <img alt="CSS Modules & Styling" src="https://img.shields.io/badge/-CSS_Modules-000000?logo=css3&logoColor=white&style=flat-square">
+  <img alt="Zustand" src="https://img.shields.io/badge/-Zustand-8C52FF?logo=zustand&logoColor=white&style=flat-square">
+  <img alt="React Query" src="https://img.shields.io/badge/-React_Query-FF4154?logo=reactquery&logoColor=white&style=flat-square">
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat-square">
+</p>
+
+### **Backend Integration**
+<p>
+  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square">
+</p>
+
+### **DevOps & Tools**
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square">
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=flat-square">
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square">
+</p>
+
+---
+
+## 🏢 **Current Construction Zone**
+
+| **Core Focus** 🏰             | **Learning Lab** 🧪           |
+|-------------------------------|------------------------------|
+| ▶️ React/TS Architecture      | ▶️ State Management Patterns |
+| ▶️ Material You Implementations | ▶️ Micro-Frontend Architecture |
+| ▶️ Component Optimization     | ▶️ Web Performance Artistry |
+
+---
+
+## 🚀 **Featured Launchpads**
+
+[![Pedar Kharj](https://custom-icon-badges.demolab.com/badge/-Expense_Tracker_PWA-4a5568?style=for-the-badge&logo=rocket)](https://github.com/ruhollah82/pedarkharj)
+`Modern financial PWA with dynamic theming`
+
+[![OTECH-MS](https://custom-icon-badges.demolab.com/badge/-Micro_Frontend_Prototype-4a5568?style=for-the-badge&logo=server)](https://github.com/ruhollah82/OTECH-front)
+`Enterprise-grade architecture showcase`
+
+---
+
+## 🌐 **Connect Matrix**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ruhollah-naseri)
+[![X](https://img.shields.io/badge/-X-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/Ruhollah_82)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/ruhollah_82)
+[![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ruhollah.naserii@gmail.com)
+
+---
+
+## 🤝 **Collaboration Blueprint**
+
+```mermaid
+graph TD
+    A[Your Idea] --> B{Shared Interest?}
+    B -->|Yes| C[Brainstorm Session]
+    B -->|No| D[Casual Networking]
+    C --> E[Project Roadmap]
+    E --> F[Awesome Project!]
+```
+
+---
+
+<div align="center">
+
+📧 **Preferred Contact Protocol**:  
+`Email` | `Telegram` | `LinkedIn DM`
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruhollah82&show_icons=true&theme=algolia&hide_title=true)
+
 </div>
+
