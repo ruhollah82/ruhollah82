@@ -3,8 +3,6 @@
 # 🎨 **Ruhollah's Digital Workshop**  
 `Front-End Architect` | `React Virtuoso` | `UI/UX Artisan`
 
-[![Material You Banner](https://your-custom-banner-link.com)](https://github.com/ruhollah82)
-
 </div>
 
 ---
