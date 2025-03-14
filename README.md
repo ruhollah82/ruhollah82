@@ -94,6 +94,7 @@ graph TD
 `Email` | `Telegram` | `LinkedIn DM`
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruhollah82&show_icons=true&theme=algolia&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhollah82&layout=compact&theme=algolia&langs_count=6)
 
 </div>
 
