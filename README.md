@@ -25,8 +25,6 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square">
   <img alt="Material UI" src="https://img.shields.io/badge/-MUI-007FFF?logo=mui&logoColor=white&style=flat-square">
   <img alt="CSS Modules & Styling" src="https://img.shields.io/badge/-CSS_Modules-000000?logo=css3&logoColor=white&style=flat-square">
-  <img alt="Zustand" src="https://img.shields.io/badge/-Zustand-8C52FF?logo=zustand&logoColor=white&style=flat-square">
-  <img alt="React Query" src="https://img.shields.io/badge/-React_Query-FF4154?logo=reactquery&logoColor=white&style=flat-square">
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat-square">
 </p>
 
