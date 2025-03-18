@@ -33,13 +33,6 @@
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square">
 </p>
 
-### **DevOps & Tools**
-<p>
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square">
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=flat-square">
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square">
-</p>
-
 ---
 
 ## 🏢 **Current Construction Zone**
