@@ -71,8 +71,8 @@
 📧 **Preferred Contact Protocol**:  
 `Email` | `Telegram` | `LinkedIn DM`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruhollah82&show_icons=true&theme=onedark&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhollah82&layout=compact&theme=onedark&langs_count=4)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruhollah82&show_icons=true&theme=nightowl&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhollah82&layout=compact&theme=nightowl&langs_count=6)
 
 </div>
 
