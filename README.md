@@ -1,22 +1,12 @@
 <div align="center">
 
 # 🎨 **Ruhollah's Digital Workshop**  
-`Front-End Architect` | `React Virtuoso` | `UI/UX Artisan`
+`Front-End Developer` | `React JS`
 
 </div>
 
 ---
 <div align="center">
-
-## 🌞 **Code Philosophy**
-```diff
-+ Clean Code Evangelist
-+ Design System Advocate
-+ Technical Debt Eliminator
-+ Over-Engineering Opponent
-```
-
----
 
 ## ⚙️ **Technical Toolkit**
 
@@ -29,22 +19,8 @@
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat-square">
 </p>
 
-### **Backend Integration**
-<p>
-  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square">
-</p>
-
 ---
 
-## 🏢 **Current Construction Zone**
-
-| **Core Focus** 🏰             | **Learning Lab** 🧪           |
-|-------------------------------|------------------------------|
-| ▶️ React/TS Architecture      | ▶️ State Management Patterns |
-| ▶️ Material You Implementations | ▶️ Micro-Frontend Architecture |
-| ▶️ Component Optimization     | ▶️ Web Performance Artistry |
-
----
 
 ## 🚀 **Featured Launchpads**
 
