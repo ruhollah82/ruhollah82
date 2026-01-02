@@ -1,0 +1,98 @@
+Name: Ruhollah Naseri
+phone: +989157557484
+email: ruhollah.naserii@gmail.com
+Junior Front-End / Software Engineer
+GitHub: github.com/ruhollah82
+
+Professional Summary
+
+Computer Engineering student and Teaching Assistant with a strong focus on front-end development using React and TypeScript. Experienced in building clean, user-focused interfaces with modern tooling and state management. Solid foundation in computer science fundamentals, algorithms, and C++, with practical exposure to backend systems through selected projects.
+
+Technical Skills
+
+Languages
+
+TypeScript, JavaScript
+
+C++
+
+Python
+
+Front-End
+
+React.js, React Router
+
+State Management: Zustand, Redux (learning)
+
+Vite, Next.js
+
+UI & Styling: Material UI, Tailwind CSS
+
+Backend & Systems
+
+Django, Django REST Framework
+
+REST APIs, JWT Authentication
+
+Basic knowledge of Redis, Celery
+
+Tools & Environment
+
+Git, GitHub
+
+Linux (Arch-based)
+
+Docker (project-based usage)
+
+CMake
+
+Selected Projects
+Pedarkharj – Expense Calculation Web App
+
+React, TypeScript, Material UI, Vite
+A responsive single-page application for calculating and splitting shared expenses.
+Focused on clean UI, component structure, and user-friendly navigation. Demonstrates practical front-end architecture, state handling, and design-system usage.
+
+BCPC Auth – Authentication Front-End
+
+React, TypeScript, Zustand, React Router, Tailwind
+A modern authentication interface designed for contest-style applications.
+Implements client-side routing, global state management, and extensible architecture for login and registration flows.
+
+AI Water Jug Solver
+
+C++, CMake
+An academic project implementing classical AI search algorithms (BFS, DFS, IDS, A*, RBFS) to solve the Water Jug problem.
+Demonstrates strong understanding of algorithms, state-space search, and clean C++ project structure.
+
+BitTorrent Private Tracker Backend
+
+Python, Django REST Framework
+A backend system for managing a private BitTorrent tracker, including authentication and user management.
+Showcases backend architecture awareness, API design, and familiarity with real-world protocols. Included as a complementary systems-level project.
+
+Teaching & Academic Experience
+
+Teaching Assistant – Programming Basics
+
+Assisted in teaching fundamental programming concepts
+
+Helped students with problem-solving, debugging, and understanding core CS principles
+
+Reinforced strong foundations in logic, algorithms, and code clarity
+
+Education
+
+B.Sc. in Computer Engineering (university of birjand)
+(Current student)
+
+Languages:
+persian(native), english,french(learning)
+
+Additional Notes
+
+Strong interest in clean UI, design systems, and maintainable front-end code
+
+Actively improving skills in advanced problem-solving and Go programming
+
+GitHub used as primary portfolio and proof of hands-on experience
