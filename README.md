@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Ruhollah%20Naseri&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 ### Front-End Developer · React & TypeScript
+
 Computer Engineering Student · Teaching Assistant
 
 Clean UI. Predictable state. Solid fundamentals.
@@ -34,16 +35,19 @@ Clean UI. Predictable state. Solid fundamentals.
 </div>
 
 ### Languages
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,cpp,python" />
 </p>
 
 ### Front-End
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind" />
 </p>
 
 ### Tools & Environment
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,linux,docker" />
 </p>
@@ -60,7 +64,8 @@ Clean UI. Predictable state. Solid fundamentals.
 <tr>
 <td width="50%">
 
-### Pedarkharj  
+### Pedarkharj
+
 **Expense Calculation App**
 
 A React + TypeScript SPA for managing and splitting shared expenses.  
@@ -72,7 +77,8 @@ Focus on UI clarity, component structure, and practical state handling.
 </td>
 <td width="50%">
 
-### BCPC Auth  
+### BCPC Auth
+
 **Authentication Front-End**
 
 Modern authentication interface for contest-style applications with clean routing and global state management.
@@ -93,7 +99,7 @@ Modern authentication interface for contest-style applications with clean routin
 </div>
 
 **AI Water Jug Solver**  
-Implementation of classical AI search algorithms (BFS, DFS, IDS, A*, RBFS) to solve the Water Jug problem.
+Implementation of classical AI search algorithms (BFS, DFS, IDS, A\*, RBFS) to solve the Water Jug problem.
 
 **Tech:** C++, CMake  
 🔗 https://github.com/ruhollah82/AI-Exercise
@@ -106,10 +112,11 @@ Implementation of classical AI search algorithms (BFS, DFS, IDS, A*, RBFS) to so
 
 </div>
 
-**Teaching Assistant – Programming Basics**  
-- Assisted students with programming fundamentals and debugging  
-- Explained algorithms, logic, and clean coding practices  
-- Strengthened communication and mentoring skills  
+**Teaching Assistant – Programming Basics**
+
+- Assisted students with programming fundamentals and debugging
+- Explained algorithms, logic, and clean coding practices
+- Strengthened communication and mentoring skills
 
 ---
 
@@ -123,7 +130,7 @@ Implementation of classical AI search algorithms (BFS, DFS, IDS, A*, RBFS) to so
   <a href="https://linkedin.com/in/ruhollah-naseri">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://t.me/ruhollah_82">
+  <a href="https://t.me/its_ruhollah">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:ruhollah.naserii@gmail.com">
