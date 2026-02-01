@@ -4,7 +4,7 @@
 
 ### Front-End Developer · React & TypeScript
 
-Computer Engineering Student · Teaching Assistant
+Computer Engineering Student
 
 Clean UI. Predictable state. Solid fundamentals.
 
@@ -111,14 +111,6 @@ Implementation of classical AI search algorithms (BFS, DFS, IDS, A\*, RBFS) to s
 ## 🎓 Teaching & Academic Experience
 
 </div>
-
-**Teaching Assistant – Programming Basics**
-
-- Assisted students with programming fundamentals and debugging
-- Explained algorithms, logic, and clean coding practices
-- Strengthened communication and mentoring skills
-
----
 
 <div align="center">
 
